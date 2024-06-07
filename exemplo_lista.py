@@ -12,6 +12,6 @@ lista_produtos.append(produto_03)
 
 print(lista_produtos)
 
-lista_produtos.pop()
+lista_produtos.pop() #remove o último objeto adicionado (maior performance do que remove)
 
 print(lista_produtos)

@@ -21,6 +21,6 @@ carrinho.append(produto_02)
 
 # print(carrinho)
 
-carrinho_json = json.dumps(carrinho)
+carrinho_json = json.dumps(carrinho) #json é uma estrutura de java semelhante ao dict no python
 
 print(carrinho_json)
