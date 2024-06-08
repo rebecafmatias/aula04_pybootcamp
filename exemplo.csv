@@ -1,0 +1,9 @@
+    nome, quantidade, preco, disponibilidade
+    sapato, 39, 10.50, True
+    bolsa, 20, 11, True
+    cinto, 15, 7.50, True
+    calca, 30, 20, True
+    camiseta, 5, 17, True
+    bone, 0, 2.90, False
+    
+  
